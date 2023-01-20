@@ -14,14 +14,13 @@
 </p>
 
 <h2 align="left">Languages n Tools I Use : </h2>
-<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,github,gitlab,javascript,css" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,vscode,figma,ai" />
-
   </a>
 </p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayzaqq&show_icons=true&theme=radical&locale=en" alt="rayzaqq" /></p>
 
