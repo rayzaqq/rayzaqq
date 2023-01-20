@@ -7,15 +7,15 @@
 
 - ⚡ - **Aspiring downhill athlete**
 
-<h2 align="center">Let's Follow :></h3>
-<p align="center">
+<h2 align="left">Let's Follow :></h3>
+<p align="left">
 <a href="https://twitter.com/nutrijel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nutrijel" height="30" width="40" /></a>
 <a href="https://instagram.com/rfiazky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rfiazky" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages n Tools I Use : </h2>
+<h2 align="left">Languages n Tools I Use : </h2>
 <br>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,github,javascript,css" /><br>
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,mysql,html,vscode,figma,ai" />
