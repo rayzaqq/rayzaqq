@@ -8,7 +8,7 @@
 - ⚡ - **Aspiring downhill athlete**
 
 <h2 align="center">Let's Follow :></h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/nutrijel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nutrijel" height="30" width="40" /></a>
 <a href="https://instagram.com/rfiazky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rfiazky" height="30" width="40" /></a>
 </p>
@@ -17,8 +17,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,wordpress,pr,express,styledcomponents,nextjs,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,javascript,css" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,mysql,html,vscode,figma,ai" />
 
   </a>
 </p>
